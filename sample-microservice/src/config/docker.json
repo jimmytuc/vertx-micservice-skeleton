@@ -1,0 +1,6 @@
+{
+  "api.name": "sample",
+  "redis.host": "redis",
+  "inventory.http.address": "sample-microservice",
+  "inventory.http.port": 8086
+}

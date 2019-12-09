@@ -1,0 +1,14 @@
+# IntelliJ project files
+.idea
+*.iml
+
+# build files
+build
+target
+.vertx
+.settings
+.project
+.classpath
+.factorypath
+*.jks
+.bowerrc
